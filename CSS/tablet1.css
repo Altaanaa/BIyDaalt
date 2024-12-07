@@ -1,0 +1,27 @@
+aside {
+    margin-top: 150px;
+}
+footer{
+    justify-content: center;
+}
+.zuwluguu {
+    margin-left: 100px;
+    width: 80%;
+  }
+  .item {
+    width: 100px;
+    height: 100px;
+  }
+  footer{
+    display: none;
+    height: 200px;
+  }
+  footer p {
+    display: none;
+  }
+  header{
+    width: 100%;
+  }
+  .zuwluguu {
+    margin-left: 100px;
+  }

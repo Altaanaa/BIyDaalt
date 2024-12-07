@@ -1,0 +1,64 @@
+aside{
+    display: none;
+}
+.main {
+    margin-left: 50px;
+}
+.main-body{
+    width: 90%;
+}
+.item {
+    width: 300px;
+    height: 300px;
+}
+footer {
+    display: block;
+    font-size: 12px;
+}
+footer h3 {
+    font-size: 12px;
+    width: 100%;
+    display: none;
+}
+footer a {
+    display: none;
+    font-size: 12px;
+    padding: 30px;
+}
+.zuwluguu {
+    margin-left: 50px;
+}
+.home {
+    margin: 0;
+}
+button {
+    margin-left: 100px;
+}
+.zuwluguu {
+    margin-left: 100px;
+    height: 100px;
+  }
+  header {
+    width: 100%;
+  }
+  p {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  ol li {
+    margin-left: 100PX;
+}
+footer p{
+    display: none;
+    width: 100%;
+}
+h2 {
+    margin-left: 50PX;
+}
+.body button {
+    margin-left:30px;
+}
+p {
+    margin-left: 50PX;
+    margin-right: 50px;
+}
