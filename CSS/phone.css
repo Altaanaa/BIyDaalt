@@ -62,3 +62,7 @@ p {
     margin-left: 50PX;
     margin-right: 50px;
 }
+.item {
+    width: 100vw;
+    height: 200px;
+}
